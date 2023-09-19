@@ -1,8 +1,11 @@
 {
 	"required": true,
-	"package": "markylu.tutorialmod.mixin",
+	"package": "net.markylu.tutorialmod.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
+		"ExampleMixin"
+	],
+	"client": [
 		"ExampleMixin"
 	],
 	"injectors": {

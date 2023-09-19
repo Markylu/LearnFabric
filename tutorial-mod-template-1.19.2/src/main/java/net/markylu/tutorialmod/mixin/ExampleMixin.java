@@ -1,4 +1,4 @@
-package markylu.tutorialmod.mixin;
+package net.markylu.tutorialmod.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
